@@ -9,10 +9,10 @@ This is the first and only *individual* (as opposed to *team*) project this seme
 
 Term: Spring 2023
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Emotions carried in the History of Philosophy.
++ This project is conducted by [Haoyu Zhang]
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: This project utilized the philosophy dataset from Philosophy Data Project(http://philosophydata.com/index.html) to analyze the emotions carried within the text of published philophical works. Since it is well-assumed that philosophical works carry relatively balanced emotions, this data story will be using the philosophy dataset to discover if any particular school's work carries significantly unbalanced positive or negative emotions. And if they are, what topics were those schools focused on. Moreover, this data story will try to reveal if the emotions for different philosophy schools vary over time.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
